@@ -1,0 +1,407 @@
+
+ /*heading start */
+.header{
+  background-color: #ffffff;
+}
+.logo{}
+.logo a{}
+.menu{}
+.menu ul{
+text-align: right;
+}
+.menu ul li{
+  display: inline-block;
+}
+.menu ul li a{
+  display: block;
+  font-size: 20px;
+  color: black;
+  padding: 0 16px;
+  text-decoration: none;
+  line-height: 54px;
+}
+#shoping{
+  font-size: 18px;
+}
+
+
+
+/* banner */
+.banner{
+  background-image: linear-gradient(to right, #1cbbe7, #00c8e8, #00d5e4, #00e1db, #25eccd);
+}
+
+.banner-text {
+  margin-top: 150px;
+}
+.banner-text h1{
+  font-size: 60px;
+  color: white;
+}
+
+.banner-text p{
+  margin-top: 35px;
+font-size: 22px;
+color: white;
+}
+.btn{
+  font-size: 20px;
+  padding: 10px 18px;
+  border: none;
+  border-radius: 20px;
+  background-color: white;
+  color: #44d89e;
+  margin-top: 10px;
+}
+
+.banner img{
+  /* display: inline-block; */
+  max-width: 100%;
+}
+
+/* about */
+
+.about{
+  margin-top: 120px;
+}
+.about-text{}
+.about-text b{
+ font-size: 20px;
+color: #ccc;
+}
+.about-text h1{
+  color: #44d89e;
+font-size: 43px;
+margin-top: 20px;
+}
+.about-text p{
+  margin-top: 40px;
+  font-size: 18px;
+  color: #ccc;
+}
+
+img{
+  max-width: 100%;
+margin-top: 45px;
+}
+.ap{}
+.our-class{
+  background-color: #fafbfc;
+  margin-top: 140px;
+  text-align: center;
+  padding: 50px 0;
+  height: 900px;
+}
+
+.our-class span{
+  font-size: 24px;
+  text-align: center;
+  color: #808080;
+  margin-top: 75px;
+}
+.our-class h1{
+  text-align: center;
+  margin-top: 55px;
+  color: #44d89e;
+font-size: 40px;
+font-weight: bold;
+}
+.ca{
+  margin-left: 30px;
+  height: 300px;
+  width: 350px;
+  background-color: #fff;
+box-shadow: 0px 0 15px #595858;
+margin-top: 50px;
+
+}
+.our-class h3{
+  font-size: 25px;
+margin-top: 25px;
+font-weight: bold;
+color: #486066;
+}
+.our-class p{
+  font-size: 15px;
+color: #60757a;
+margin-top: 25px;
+}
+
+.ca img{
+  max-width: 100%;
+  text-align: center;
+}
+ .btn a{
+  font-size: 20px;
+text-decoration: none;
+background-color: #fafbfc;
+color: #44d89e;
+padding: 10px 45px;
+border: 2px solid #44d89e;
+border-radius: 20px;
+display: inline-block
+}
+.about2{
+  background-image: linear-gradient(to right, #f8c86c, #fac26f, #fbbb73, #fbb577, #fab07b);
+}
+.about2 span{
+  font-size: 18px;
+  text-align: center;
+  color: #808080;
+  margin-top: 150px;
+  display: inline-block;
+}
+.ba{
+  margin-top: 80px;
+  background-color: #fff;
+  box-shadow: 0 0 15px #4f4646;
+}
+.about2 h1{
+  font-size: 40px;
+margin-top: 25px;
+color: white;
+}
+.about2 p{
+  font-size: 18px;
+color: white;
+margin-top: 35px;
+}
+.about2-img{}
+.about2-img img{}
+button{
+  font-size: 22px;
+background-color: white;
+padding: 10px 16px;
+display: inline-block;
+border-radius: 20px;
+border: none;
+color: #59dca9;
+}
+.features{
+  margin-top: 170px;
+}
+.features h4{
+  font-size: 22px;
+  color: #ccc;
+}
+
+.features h1{
+  font-size: 35px;
+margin-top: 25px;
+color: #44d89e
+}
+.features1{
+  /* display: block; */
+}
+.features1 img{
+  max-width: 100%;
+}
+.features1 h3{
+  font-size: 25px;
+color: #819195;
+margin-top: 25px;
+}
+.features1 p{
+  font-size: 18px;
+color: #bbc4c6;
+margin-top: 34px;
+}
+.features2{}
+.features2 img{}
+.features2 h3{
+  font-size: 25px;
+  color: #819195;
+  margin-top: 25px;
+}
+.features2 p{
+  font-size: 18px;
+  color: #bbc4c6;
+  margin-top: 34px;
+}
+.features-img img{
+  max-width: 100%;
+}
+.team-section{
+  background-color: #fafbfc;
+padding: 80px 0;
+margin-top: 113px;
+}
+.team-section h4{
+  font-size: 18px;
+color: #c8c9ca;
+margin-top: 45px;
+}
+.team-section h1{
+  font-size: 40px;
+color: #5fddac;
+font-weight: bold;
+margin-top: 25px;
+}
+.team1{
+  background-color: white;
+  padding: 0 30px;
+   
+  box-shadow: 0 0 15px #aeaaaa;
+  margin-left: 14px;
+  margin-top: 150px;
+  padding-bottom: 25px;
+}
+.team1 img{
+  max-width: 100%;
+}
+.team1 h3{
+  text-align: center;
+font-size: 20px;
+color: #50676d;
+margin-top: 20px;
+}
+.team1 h6{
+  text-align: center;
+color: #aaa;
+font-size: 16px;
+margin-top: 15px;
+}
+.team1 p{
+  font-size: 15px;
+  color: #a9a9a9;
+  margin-top: 15px;
+  text-align: center
+}
+.icon a{
+  color: #44d89e;
+font-size: 18px;
+display: inline-block;
+margin-left: 12px;
+}
+.bt{
+  margin-top: 35px;
+border: 2px solid #44d89e;
+padding: 7px 30px;
+}
+.testimonial{
+  background-color: #23e1b4;
+  padding-top: 1px;
+  padding-bottom: 80px;
+}
+.testimonial h6{
+  font-size: 20px;
+margin-top: 100px;
+}
+.testimonial h1{
+  font-size: 35px;
+font-weight: bold;
+color: #ffffff;
+margin-top: 35px;
+}
+.textimonial-text{
+  background-color: #fff;
+  padding: 35px 30px;
+  margin-top: 65px;
+}
+
+.textimonial-text p{
+  font-size: 16px;
+color: #bbc4c6;
+}
+.textimonial-text h4{
+  font-size: 18px;
+font-weight: bold;
+margin-top: 50px;
+}
+.textimonial-text h5{
+  font-size: 18px;
+margin-top: 25px;
+}
+.blog{
+  background-color: #fafbfc;
+padding-top: 1px;
+padding-bottom: 90px;
+}
+.blog h6{
+  text-align: center;
+  margin-top: 100px;
+  font-size: 20px;
+  color: #c8c9ca;
+}
+.blog h1{
+  font-size: 40px;
+font-weight: bold;
+color: #8be6c2;
+text-align: center;
+margin-top: 25px;
+}
+.blog-text{
+  padding: 0 15px;
+background-color: white;
+box-shadow: 0 0 15px #d0c9c9;
+padding-bottom: 10px;
+margin-top: 60px;
+}
+.blog-text h4{
+  font-size: 18px;
+font-weight: bold;
+margin-top: 20px;
+}
+.blog-text h5{
+  font-size: 18px;
+color: #cecece;
+margin-top: 15px;
+}
+.blog-text p{
+  font-size: 16px;
+color: #9aa7aa;
+}
+.btc{
+  
+}
+.partner{
+  margin-top: 100px;
+}
+.partner h1{
+  margin-top: 120px;
+text-align: center;
+font-weight: bold;
+color: #72e2b6;
+}
+.par-img{
+  margin-top: 40px;
+border: 1px solid #a8a1a1;
+}
+.footer1{
+  background-image: linear-gradient(to left bottom, #1dbce6, #00c8e7, #00d4e3, #00dfda, #24e9ce);
+  margin-top: 100px;
+  padding-bottom: 80px;
+}
+.footer1-text{
+
+}
+.footer1-text h1{
+
+margin-top: 85px;
+font-size: 35px;
+font-weight: bold;
+color: white;
+}
+.footer1-text p{
+  font-size: 18px;
+font-weight: bold;
+color: white;
+margin-top: 20px;
+}
+.footer1-btn1{
+  margin-top: 140px;
+}
+.footer1-btn2{}
+button span{
+  font-size: 16px;
+color: #59dca9;
+}
+
+.footer{
+  background-color: black;
+  padding: 15px 0;
+}
+.footer p{
+  font-size: 16px;
+  color: white;
+}
